@@ -13,12 +13,12 @@ This is a Tauri-based desktop application written in Rust that acts as a _Model 
    - Node.js + pnpm (for frontend)
    - Tauri CLI: `cargo install tauri-cli`
 
+![FnIKPeVNAy](https://github.com/user-attachments/assets/a91e3991-dd14-4cd3-958f-68b2f54d5df4)
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for details.
 
 ## Recommended IDE Setup
-
-![FnIKPeVNAy](https://github.com/user-attachments/assets/a91e3991-dd14-4cd3-958f-68b2f54d5df4)
 
 - [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
