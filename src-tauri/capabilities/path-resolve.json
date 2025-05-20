@@ -1,0 +1,11 @@
+{
+    "$schema": "../gen/schemas/desktop-schema.json",
+    "identifier": "path-resolve",
+    "description": "Permite uso de path.resolve_directory no frontend",
+    "windows": [
+        "main"
+    ],
+    "permissions": [
+        "core:path:allow-resolve-directory"
+    ]
+}

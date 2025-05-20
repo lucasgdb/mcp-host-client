@@ -1,0 +1,11 @@
+{
+    "$schema": "../gen/schemas/desktop-schema.json",
+    "identifier": "fs-write",
+    "description": "Permite escrever arquivos via plugin-fs",
+    "windows": [
+        "main"
+    ],
+    "permissions": [
+        "fs:write-files"
+    ]
+}

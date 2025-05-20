@@ -1,0 +1,12 @@
+{
+    "$schema": "../gen/schemas/desktop-schema.json",
+    "identifier": "fs-access",
+    "description": "Accesso completo de leitura/escrita ao diretório LocalData",
+    "windows": [
+        "main"
+    ],
+    "permissions": [
+        "fs:scope-localdata-recursive",
+        "fs:allow-localdata-write-recursive"
+    ]
+}
